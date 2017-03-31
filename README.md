@@ -15,3 +15,6 @@ dependencies {
     compile 'org.ukiuni:svgpngcontainer:1.0.0' 
 }
 ```
+
+# License
+Public domain. No warranty at all.
